@@ -1,0 +1,138 @@
+2025-12-05 21:07:30,542 - IRCServer[30164] - INFO - Launching server barad-dur...
+2025-12-05 21:07:30,563 - IRCServer[30164] - INFO - Configuring the server socket...
+2025-12-05 21:07:30,582 - IRCServer[30164] - INFO - Connecting to remote server minastirith:36307...
+2025-12-05 21:07:30,605 - IRCServer[30164] - INFO - Listening for new connections on port 36311
+2025-12-05 21:07:30,619 - IRCServer[30164] - INFO - Received msg from Host ID #11 "b'\x00\x00\x00\x00\x0b\x00\x00\x00\x00\t\x00\x10barad-dur"The Dark Tower"'"
+2025-12-05 21:07:30,639 - IRCServer[30164] - INFO - Received msg from Host ID #11 "b'\x00\x00\x00\x00\x0b\x00\x00\x00\x07\t\x00\x10barad-dur"The Dark Tower"'"
+2025-12-05 21:07:30,641 - IRCServer[30164] - INFO - Received msg from Host ID #11 "b'\x00\x00\x00\x00\x0b\x00\x00\x00\x07\t\x00\x10barad-dur"The Dark Tower"'"
+2025-12-05 21:07:30,641 - IRCServer[30164] - INFO - Received msg from Host ID #7 "b'\x00\x00\x00\x00\x07\x00\x00\x00\x00\x0b\x00\x10minastirith"Tower of Guard"'"
+2025-12-05 21:07:30,659 - IRCServer[30164] - INFO - Received msg from Host ID #11 "b'\x00\x00\x00\x00\x0b\x00\x00\x00\x04\t\x00\x10barad-dur"The Dark Tower"'"
+2025-12-05 21:07:30,659 - IRCServer[30164] - INFO - Received msg from Host ID #11 "b'\x00\x00\x00\x00\x0b\x00\x00\x00\x04\t\x00\x10barad-dur"The Dark Tower"'"
+2025-12-05 21:07:30,661 - IRCServer[30164] - INFO - Received msg from Host ID #4 "b'\x00\x00\x00\x00\x04\x00\x00\x00\x07\n\x00\x11lothlorien"The Golden Wood"'"
+2025-12-05 21:07:30,675 - IRCServer[30164] - INFO - Received msg from Host ID #11 "b'\x00\x00\x00\x00\x0b\x00\x00\x00\x02\t\x00\x10barad-dur"The Dark Tower"'"
+2025-12-05 21:07:30,676 - IRCServer[30164] - INFO - Received msg from Host ID #11 "b'\x00\x00\x00\x00\x0b\x00\x00\x00\x02\t\x00\x10barad-dur"The Dark Tower"'"
+2025-12-05 21:07:30,681 - IRCServer[30164] - INFO - Received msg from Host ID #11 "b'\x00\x00\x00\x00\x0b\x00\x00\x00\x02\t\x00\x10barad-dur"The Dark Tower"'"
+2025-12-05 21:07:30,681 - IRCServer[30164] - INFO - Received msg from Host ID #11 "b'\x00\x00\x00\x00\x0b\x00\x00\x00\x06\t\x00\x10barad-dur"The Dark Tower"'"
+2025-12-05 21:07:30,681 - IRCServer[30164] - INFO - Received msg from Host ID #2 "b'\x00\x00\x00\x00\x02\x00\x00\x00\x07\t\x00\x0frivendale"Elronds House"'"
+2025-12-05 21:07:30,700 - IRCServer[30164] - INFO - Received msg from Host ID #11 "b'\x00\x00\x00\x00\x0b\x00\x00\x00\x01\t\x00\x10barad-dur"The Dark Tower"'"
+2025-12-05 21:07:30,710 - IRCServer[30164] - INFO - Received msg from Host ID #1 "b'\x00\x00\x00\x00\x01\x00\x00\x00\x07\x08\x00\x15theshire"Home of the Hobbits"'"
+2025-12-05 21:07:30,730 - IRCServer[30164] - INFO - Received msg from Host ID #101 "b'\x80\x00\x00\x00e\x00\x00\x00\x07\x0c\x00\x0bfrodobaggins"Test info"'"
+2025-12-05 21:07:30,742 - IRCServer[30164] - INFO - Received msg from Host ID #3 "b'\x00\x00\x00\x00\x03\x00\x00\x00\x07\x0b\x00\x1cgrey_havens"Gates to the Blessed Realm"'"
+2025-12-05 21:07:30,751 - IRCServer[30164] - INFO - Received msg from Host ID #103 "b'\x80\x00\x00\x00g\x00\x00\x00\x07\x06\x00\x0belrond"Test info"'"
+2025-12-05 21:07:30,762 - IRCServer[30164] - INFO - Received msg from Host ID #104 "b'\x80\x00\x00\x00h\x00\x00\x00\x07\x0c\x00\x0bbilbobaggins"Test info"'"
+2025-12-05 21:07:30,772 - IRCServer[30164] - INFO - Received msg from Host ID #5 "b'\x00\x00\x00\x00\x05\x00\x00\x00\x07\x05\x00\x0fmoria"The Black Pit"'"
+2025-12-05 21:07:30,786 - IRCServer[30164] - INFO - Received msg from Host ID #6 "b'\x00\x00\x00\x00\x06\x00\x00\x00\x07\x06\x00%edoras"Home of the Golden Hall of Meduseld"'"
+2025-12-05 21:07:30,795 - IRCServer[30164] - INFO - Received msg from Host ID #105 "b'\x80\x00\x00\x00i\x00\x00\x00\x07\x08\x00\x0bperegrin"Test info"'"
+2025-12-05 21:07:30,804 - IRCServer[30164] - INFO - Received msg from Host ID #8 "b'\x00\x00\x00\x00\x08\x00\x00\x00\x07\x08\x00\x15mirkwood"Wood of Greenleaves"'"
+2025-12-05 21:07:30,817 - IRCServer[30164] - INFO - Received msg from Host ID #106 "b'\x80\x00\x00\x00j\x00\x00\x00\x07\x08\x00\x0bmeriadoc"Test info"'"
+2025-12-05 21:07:30,829 - IRCServer[30164] - INFO - Received msg from Host ID #9 "b'\x00\x00\x00\x00\t\x00\x00\x00\x07\x08\x00\x1disengard"Angrenost, The Iron Fortres"'"
+2025-12-05 21:07:30,841 - IRCServer[30164] - INFO - Received msg from Host ID #10 "b'\x00\x00\x00\x00\n\x00\x00\x00\x07\t\x00\x16osgiliath"Citadel of the Stars"'"
+2025-12-05 21:07:30,861 - IRCServer[30164] - INFO - Received msg from Host ID #11 "b'\x00\x00\x00\x00\x0b\x00\x00\x00\x00\t\x00\x10barad-dur"The Dark Tower"'"
+2025-12-05 21:07:30,875 - IRCServer[30164] - INFO - Sending message to an unknown IO device "b'\x01\x00\x00\x00\x07\x00\x00\x00\x00\x00\x02\x00\x00\x00+A machine has already registered with ID 11'"
+2025-12-05 21:07:30,887 - IRCServer[30164] - INFO - Received msg from Host ID #7 "b'\x01\x00\x00\x00\x07\x00\x00\x00\x00\x00\x02\x00\x00\x00+A machine has already registered with ID 11'"
+2025-12-05 21:07:31,560 - IRCServer[30164] - INFO - Launching client balin...
+2025-12-05 21:07:31,577 - IRCServer[30164] - INFO - Sending message to b'\x80\x00\x00\x00k\x00\x00\x00\x00\x05\x00\x0bbalin"Test info"'
+2025-12-05 21:07:31,593 - IRCServer[30164] - INFO - Received msg from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x00\x05\x00\x0bbalin"Test info"'"
+2025-12-05 21:07:31,622 - IRCServer[30164] - INFO - Received msg from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x05\x05\x00\x0bbalin"Test info"'"
+2025-12-05 21:07:31,629 - IRCServer[30164] - INFO - Received message from Host ID #5 "b'\x01\x00\x00\x00\x05\x00\x00\x00k\x00\x00\x00\x00\x00/Welcome to the Clemson Relay Chat network balin'"
+2025-12-05 21:07:31,641 - IRCServer[30164] - INFO - Received msg from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x02\x05\x00\x0bbalin"Test info"'"
+2025-12-05 21:07:31,642 - IRCServer[30164] - INFO - Received msg from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x02\x05\x00\x0bbalin"Test info"'"
+2025-12-05 21:07:31,644 - IRCServer[30164] - INFO - Received message from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x02\x05\x00\x0bbalin"Test info"'"
+2025-12-05 21:07:31,645 - IRCServer[30164] - INFO - Received msg from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x02\x05\x00\x0bbalin"Test info"'"
+2025-12-05 21:07:31,660 - IRCServer[30164] - INFO - Received message from Host ID #101 "b'\x80\x00\x00\x00e\x00\x00\x00\x05\x0c\x00\x0bfrodobaggins"Test info"'"
+2025-12-05 21:07:31,670 - IRCServer[30164] - INFO - Received msg from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x01\x05\x00\x0bbalin"Test info"'"
+2025-12-05 21:07:31,671 - IRCServer[30164] - INFO - Received message from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x01\x05\x00\x0bbalin"Test info"'"
+2025-12-05 21:07:31,683 - IRCServer[30164] - INFO - Received message from Host ID #103 "b'\x80\x00\x00\x00g\x00\x00\x00\x05\x06\x00\x0belrond"Test info"'"
+2025-12-05 21:07:31,684 - IRCServer[30164] - INFO - Received msg from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x04\x05\x00\x0bbalin"Test info"'"
+2025-12-05 21:07:31,686 - IRCServer[30164] - INFO - Received msg from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x04\x05\x00\x0bbalin"Test info"'"
+2025-12-05 21:07:31,703 - IRCServer[30164] - INFO - Received message from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x03\x05\x00\x0bbalin"Test info"'"
+2025-12-05 21:07:31,717 - IRCServer[30164] - INFO - Received message from Host ID #104 "b'\x80\x00\x00\x00h\x00\x00\x00\x05\x0c\x00\x0bbilbobaggins"Test info"'"
+2025-12-05 21:07:31,725 - IRCServer[30164] - INFO - Received msg from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x07\x05\x00\x0bbalin"Test info"'"
+2025-12-05 21:07:31,727 - IRCServer[30164] - INFO - Received message from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x07\x05\x00\x0bbalin"Test info"'"
+2025-12-05 21:07:31,728 - IRCServer[30164] - INFO - Received msg from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x07\x05\x00\x0bbalin"Test info"'"
+2025-12-05 21:07:31,731 - IRCServer[30164] - INFO - Received message from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x06\x05\x00\x0bbalin"Test info"'"
+2025-12-05 21:07:31,734 - IRCServer[30164] - INFO - Received msg from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x06\x05\x00\x0bbalin"Test info"'"
+2025-12-05 21:07:31,744 - IRCServer[30164] - INFO - Received message from Host ID #105 "b'\x80\x00\x00\x00i\x00\x00\x00\x05\x08\x00\x0bperegrin"Test info"'"
+2025-12-05 21:07:31,756 - IRCServer[30164] - INFO - Received message from Host ID #106 "b'\x80\x00\x00\x00j\x00\x00\x00\x05\x08\x00\x0bmeriadoc"Test info"'"
+2025-12-05 21:07:32,575 - IRCServer[30164] - INFO - Launching client sauron...
+2025-12-05 21:07:32,576 - IRCServer[30164] - INFO - Sending message to b'\x80\x00\x00\x00l\x00\x00\x00\x00\x06\x00\x0bsauron"Test info"'
+2025-12-05 21:07:32,578 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x00\x06\x00\x0bsauron"Test info"'"
+2025-12-05 21:07:32,582 - IRCServer[30164] - INFO - Received message from Host ID #11 "b'\x01\x00\x00\x00\x0b\x00\x00\x00l\x00\x00\x00\x00\x000Welcome to the Clemson Relay Chat network sauron'"
+2025-12-05 21:07:32,582 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x0b\x06\x00\x0bsauron"Test info"'"
+2025-12-05 21:07:32,593 - IRCServer[30164] - INFO - Received message from Host ID #101 "b'\x80\x00\x00\x00e\x00\x00\x00\x0b\x0c\x00\x0bfrodobaggins"Test info"'"
+2025-12-05 21:07:32,606 - IRCServer[30164] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x07\x06\x00\x0bsauron"Test info"'"
+2025-12-05 21:07:32,612 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x07\x06\x00\x0bsauron"Test info"'"
+2025-12-05 21:07:32,613 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x07\x06\x00\x0bsauron"Test info"'"
+2025-12-05 21:07:32,614 - IRCServer[30164] - INFO - Received message from Host ID #103 "b'\x80\x00\x00\x00g\x00\x00\x00\x0b\x06\x00\x0belrond"Test info"'"
+2025-12-05 21:07:32,617 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x04\x06\x00\x0bsauron"Test info"'"
+2025-12-05 21:07:32,619 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x04\x06\x00\x0bsauron"Test info"'"
+2025-12-05 21:07:32,626 - IRCServer[30164] - INFO - Received message from Host ID #104 "b'\x80\x00\x00\x00h\x00\x00\x00\x0b\x0c\x00\x0bbilbobaggins"Test info"'"
+2025-12-05 21:07:32,628 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2025-12-05 21:07:32,628 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2025-12-05 21:07:32,630 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2025-12-05 21:07:32,631 - IRCServer[30164] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2025-12-05 21:07:32,633 - IRCServer[30164] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x06\x06\x00\x0bsauron"Test info"'"
+2025-12-05 21:07:32,633 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x06\x06\x00\x0bsauron"Test info"'"
+2025-12-05 21:07:32,640 - IRCServer[30164] - INFO - Received message from Host ID #105 "b'\x80\x00\x00\x00i\x00\x00\x00\x0b\x08\x00\x0bperegrin"Test info"'"
+2025-12-05 21:07:32,646 - IRCServer[30164] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x05\x06\x00\x0bsauron"Test info"'"
+2025-12-05 21:07:32,647 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x01\x06\x00\x0bsauron"Test info"'"
+2025-12-05 21:07:32,648 - IRCServer[30164] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x01\x06\x00\x0bsauron"Test info"'"
+2025-12-05 21:07:32,657 - IRCServer[30164] - INFO - Received message from Host ID #106 "b'\x80\x00\x00\x00j\x00\x00\x00\x0b\x08\x00\x0bmeriadoc"Test info"'"
+2025-12-05 21:07:32,660 - IRCServer[30164] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x03\x06\x00\x0bsauron"Test info"'"
+2025-12-05 21:07:32,669 - IRCServer[30164] - INFO - Received message from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x0b\x05\x00\x0bbalin"Test info"'"
+2025-12-05 21:07:34,578 - IRCServer[30164] - INFO - Sending message to b'\x81\x00\x00\x00i\x00\x00\x00l\x00\x00\x00 "Quit looking at me, its creepy"'
+2025-12-05 21:07:34,587 - IRCServer[30164] - INFO - Received msg from Host ID #105 "b'\x81\x00\x00\x00i\x00\x00\x00l\x00\x00\x00 "Quit looking at me, its creepy"'"
+2025-12-05 21:07:34,605 - IRCServer[30164] - INFO - Sending message to Host ID #108 "b'\x81\x00\x00\x00i\x00\x00\x00l\x00\x00\x00 "Quit looking at me, its creepy"'"
+2025-12-05 21:07:34,621 - IRCServer[30164] - INFO - Received msg from Host ID #105 "b'\x81\x00\x00\x00i\x00\x00\x00l\x00\x00\x00 "Quit looking at me, its creepy"'"
+2025-12-05 21:07:34,632 - IRCServer[30164] - INFO - Sending message to Host ID #108 "b'\x81\x00\x00\x00i\x00\x00\x00l\x00\x00\x00 "Quit looking at me, its creepy"'"
+2025-12-05 21:07:34,646 - IRCServer[30164] - INFO - Received message from Host ID #105 "b'\x81\x00\x00\x00i\x00\x00\x00l\x00\x00\x00 "Quit looking at me, its creepy"'"
+2025-12-05 21:07:35,587 - IRCServer[30164] - INFO - Sending message to b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'
+2025-12-05 21:07:35,599 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,615 - IRCServer[30164] - INFO - Server has disconnected!
+2025-12-05 21:07:35,625 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,643 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,645 - IRCServer[30164] - INFO - Received message from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,645 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,647 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,675 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,678 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,679 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,689 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,695 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,695 - IRCServer[30164] - INFO - Received message from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,696 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,698 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,699 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,700 - IRCServer[30164] - INFO - Received message from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,701 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,709 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,717 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,719 - IRCServer[30164] - INFO - Received message from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,720 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,724 - IRCServer[30164] - INFO - Received message from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,720 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,739 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,743 - IRCServer[30164] - INFO - Received message from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,747 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:35,770 - IRCServer[30164] - INFO - Received msg from Host ID #108 "b'\x82\x00\x00\x00l\x00\x00\x00\x17"Tower collapsing, brb"'"
+2025-12-05 21:07:36,600 - IRCServer[30164] - INFO - Sending message to b'\x81\x00\x00\x00e\x00\x00\x00l\x00\x00\x005"I dont think you are going to get that ring back..."'
+2025-12-05 21:07:36,622 - IRCServer[30164] - INFO - Received msg from Host ID #101 "b'\x81\x00\x00\x00e\x00\x00\x00l\x00\x00\x005"I dont think you are going to get that ring back..."'"
+2025-12-05 21:07:36,640 - IRCServer[30164] - INFO - Sending message to Host ID #101 "b'\x01\x00\x00\x00\x01\x00\x00\x00e\x00\x01\x00\x00\x00\x0eUnknown ID 108'"
+2025-12-05 21:07:36,663 - IRCServer[30164] - INFO - Received message from Host ID #1 "b'\x01\x00\x00\x00\x01\x00\x00\x00e\x00\x01\x00\x00\x00\x0eUnknown ID 108'"
+2025-12-05 21:07:39,125 - IRCServer[30164] - INFO - Cleaning up the server
+2025-12-05 21:07:39,142 - IRCServer[30164] - INFO - Server has disconnected!
+2025-12-05 21:07:39,145 - IRCServer[30164] - INFO - Cleaning up the server
+2025-12-05 21:07:39,154 - IRCServer[30164] - INFO - Server has disconnected!
+2025-12-05 21:07:39,155 - IRCServer[30164] - INFO - Cleaning up the server
+2025-12-05 21:07:39,167 - IRCServer[30164] - INFO - Server has disconnected!
+2025-12-05 21:07:39,169 - IRCServer[30164] - INFO - Cleaning up the server
+2025-12-05 21:07:39,195 - IRCServer[30164] - INFO - Cleaning up the server
+2025-12-05 21:07:39,205 - IRCServer[30164] - INFO - Server has disconnected!
+2025-12-05 21:07:39,205 - IRCServer[30164] - INFO - Cleaning up the server
+2025-12-05 21:07:39,220 - IRCServer[30164] - INFO - Server has disconnected!
+2025-12-05 21:07:39,223 - IRCServer[30164] - INFO - Cleaning up the server
+2025-12-05 21:07:39,243 - IRCServer[30164] - INFO - Server has disconnected!
+2025-12-05 21:07:39,264 - IRCServer[30164] - INFO - Cleaning up the server
+2025-12-05 21:07:39,326 - IRCServer[30164] - INFO - Cleaning up the server
+2025-12-05 21:07:39,357 - IRCServer[30164] - INFO - Cleaning up the server
+2025-12-05 21:07:39,470 - IRCServer[30164] - INFO - Cleaning up the server
